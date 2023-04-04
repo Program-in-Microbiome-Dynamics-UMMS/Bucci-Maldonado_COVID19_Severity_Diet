@@ -40,5 +40,13 @@ SARS-CoV-2 positive patients exhibit gut and oral microbiome dysbiosis which is 
 <br>ranger
 <br>caret
 <br>logr
+<br>sirus
+<br>ifultools
+<br>pROC
+<br>plyr
+<br>ComplexHeatmap
+<br>RColorBrewer
+<br>circlize
+<br>"stargazer"
 
 
