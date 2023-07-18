@@ -4,7 +4,7 @@
 
 This is the code repository for RFC models used in the publication by Bucci et al. (publication currently under review at mSystems). 
 
-Data used in the publication has been uploaded to the [NCBI BioProject repository](https://www.ncbi.nlm.nid.gov/bioproject) and can be accessed here under  BioProject number PRJNA868760 (“The Intestinal and Oral Microbiomes of SARS-CoV-2 PCR positive, hospitalized patients”).
+Data used in the publication has been uploaded to the [NCBI BioProject repository](https://www.ncbi.nlm.nih.gov/bioproject) and can be accessed here under  BioProject number (tbd) (“The Intestinal and Oral Microbiomes of SARS-CoV-2 PCR positive, hospitalized patients”).
 
 
 ---
